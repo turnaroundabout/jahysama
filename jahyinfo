@@ -7,7 +7,7 @@
   "chapters": {
     "61": {
       "title": "Druj and Jahy-sama",
-      "volume": "7",
+      "volume": "8",
       "groups": {
         "Orchesc/a/ns": "/proxy/api/imgur/chapter/Vv8d1oK/"
       },
@@ -15,7 +15,7 @@
     },
     "62": {
       "title": "Jahy-sama and the Omikoshi",
-      "volume": "7",
+      "volume": "8",
       "groups": {
         "Orchesc/a/ns": "/proxy/api/imgur/chapter/qA1cCOM/"
       },
@@ -23,11 +23,19 @@
     },
     "63": {
       "title": "Salwa-sama and the Festival",
-      "volume": "7",
+      "volume": "8",
       "groups": {
         "Orchesc/a/ns": "/proxy/api/imgur/chapter/Epo9chJ/"
       },
       "last_updated": "1623013869"
+    }
+    "64": {
+      "title": "Jahy-sama and Independence",
+      "volume": "8",
+      "groups": {
+        "Orchesc/a/ns": "/proxy/api/imgur/chapter/iPQcLNC/"
+      },
+      "last_updated": "1632204302"
     }
   }
 }
